@@ -1,0 +1,40 @@
+img{
+    height: 100px;
+    margin-left:50px
+}
+div{
+    margin-left:50% ;
+}
+h1{
+    margin-bottom: 50px;
+}
+body{
+    background-color:lightgray;
+}
+#nxtpg{
+    background-color: lightgray;
+    margin-left: 0;
+}
+#cont{
+    background-color: lightgray;
+    margin-left: 0;
+}
+#linked {
+    height: 13px;
+    margin-left: 4px;
+    background-color: aliceblue;
+}
+#main{
+    margin-left: 35%;
+}
+h2{
+    color: darkblue;
+}
+h1{
+    color: indigo;
+}
+#link{
+    padding:10px;
+    padding-bottom: 50px;
+    margin-left:50% ;
+}
